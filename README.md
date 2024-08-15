@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinaypawar7
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning python
-- 📫 You can reach me via instagram @cyb3r.vinay_
+- 📫 You can reach me via instagram @glxssy.vinay_
 - 😄 Pronouns: He/Him
 
 <!---
